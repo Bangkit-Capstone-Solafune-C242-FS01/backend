@@ -172,6 +172,3 @@ After starting the server, you can access the API at `http://127.0.0.1:8000`. Us
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
