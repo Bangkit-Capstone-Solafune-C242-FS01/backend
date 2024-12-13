@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow-cpu
+opencv-python
+scipy
+rasterio
+numpy
+patchify
+requests
+earthengine-api
+python-multipart
